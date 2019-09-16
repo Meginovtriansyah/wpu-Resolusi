@@ -1,4 +1,4 @@
 WPU resolusi
 - belajar bikin web
-- belajar bikin web mengunakan bootsrap
 - belajara bikin web mengunkan php
+- belajar bikin web mengunakan js
